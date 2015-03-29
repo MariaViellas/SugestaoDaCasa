@@ -1,0 +1,104 @@
+body {
+  background-image:  url("../img/plano de fundo.jpg");
+  background-size: 1280px 621px;
+  background-repeat: none;
+  background-repeat: no-repeat;
+} 
+
+div.menu {
+  width: 20%;
+  height: 30%;
+  margin-top: 15%;
+  margin-left: 15.5%
+}
+
+div.dir {
+  width: 20%;
+  height: 100%;
+  margin-top: 70px;
+}
+
+div.centro {
+  width: 100%;
+  height: 100%;
+}
+
+div.esq {
+  width: 20%;
+  height: 100%;
+  margin-top: 70px;
+}
+
+.content {
+  margin-top: 125px;
+  position: relative;
+}
+
+.content #divpasteis {
+  top: 74px;
+  left: 205px;
+  width: 214px;
+  height: 139px;
+  position: absolute;
+  cursor: pointer;
+}
+
+.content #divchurrasco {
+  position: absolute;
+  width: 215px;
+  height: 250px;
+  top: 225px;
+  left: 211px;
+  cursor: pointer;
+}
+
+.content #divpratos {
+  position: absolute;
+  width: 219px;
+  height: 272px;
+  top: 77px;
+  left: 452px;
+  cursor: pointer;
+}
+
+.content #divsobremesas {
+  position: absolute;
+  width: 206px;
+  height: 105px;
+  top: 369px;
+  left: 459px;
+  cursor: pointer;
+}
+
+.content #divcervejas {
+  position: absolute;
+  width: 174px;
+  height: 149px;
+  top: 78px;
+  left: 696px;
+  cursor: pointer;
+}
+
+.content #divdrinks {
+  position: absolute;
+  width: 204px;
+  height: 119px;
+  top: 254px;
+  left: 700px;
+  cursor: pointer;
+}
+
+.content #divoutros {
+  position: absolute;
+  width: 211px;
+  height: 88px;
+  top: 382px;
+  left: 700px;
+  cursor: pointer;
+}
+a.link {
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+}
